@@ -15,4 +15,4 @@ Learning resources
 
 * https://medium.com/starkware/tagged/stark-math
 
-*https://github.com/starkware-industries/stark101
+* https://github.com/starkware-industries/stark101
