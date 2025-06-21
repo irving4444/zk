@@ -12,3 +12,7 @@ Learning resources
 
 # STARK
 * https://aszepieniec.github.io/stark-anatomy/
+
+* https://medium.com/starkware/tagged/stark-math
+
+*https://github.com/starkware-industries/stark101
