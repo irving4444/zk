@@ -19,3 +19,5 @@ Learning resources
   
   # STARK PAPER
     * https://eprint.iacr.org/2018/046.pdf?ref=blog.lambdaclass.com
+    * https://medium.com/kroma-network/how-to-deep-fri-like-a-chef-80f06228d480
+    * https://medium.com/starkware/arithmetization-i-15c046390862
