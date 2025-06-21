@@ -21,3 +21,5 @@ Learning resources
     * https://eprint.iacr.org/2018/046.pdf?ref=blog.lambdaclass.com
     * https://medium.com/kroma-network/how-to-deep-fri-like-a-chef-80f06228d480
     
+# ZK MOCC
+* https://rdi.berkeley.edu/zk-learning/
