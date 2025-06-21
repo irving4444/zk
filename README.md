@@ -16,3 +16,6 @@ Learning resources
 * https://medium.com/starkware/tagged/stark-math
 
 * https://github.com/starkware-industries/stark101
+  
+  # STARK PAPER
+    * https://eprint.iacr.org/2018/046.pdf?ref=blog.lambdaclass.com
