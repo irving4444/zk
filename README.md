@@ -23,3 +23,6 @@ Learning resources
     
 # ZK MOCC
 * https://rdi.berkeley.edu/zk-learning/
+
+# DAN BONEH
+* https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf
