@@ -26,3 +26,6 @@ Learning resources
 
 # DAN BONEH
 * https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf
+
+#FRI 
+* https://docs.sotazk.org/docs/fri/
