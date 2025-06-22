@@ -27,6 +27,9 @@ Learning resources
 # DAN BONEH
 * https://crypto.stanford.edu/~dabo/cryptobook/BonehShoup_0_6.pdf
 
-#FRI 
+# FRI 
 * https://docs.sotazk.org/docs/fri/
 * https://www.wisdom.weizmann.ac.il/~oded/PDF/pt-low.pdf
+
+# SNARG
+* https://github.com/hash-based-snargs-book/hash-based-snargs-book/blob/main/snargs-book.pdf
