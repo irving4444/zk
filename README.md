@@ -29,3 +29,4 @@ Learning resources
 
 #FRI 
 * https://docs.sotazk.org/docs/fri/
+* https://www.wisdom.weizmann.ac.il/~oded/PDF/pt-low.pdf
