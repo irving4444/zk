@@ -33,6 +33,7 @@ Learning resources
 * https://decentralizedthoughts.github.io/2023-09-01-FFT/
 * https://eprint.iacr.org/2022/1216.pdf
 * https://people.cs.georgetown.edu/jthaler/Ligero-FRI-proof-size.pdf
+* https://hackmd.io/@deanstef/SJTT3MDhC
 
 # SNARG
 * https://github.com/hash-based-snargs-book/hash-based-snargs-book/blob/main/snargs-book.pdf
