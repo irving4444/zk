@@ -34,6 +34,7 @@ Learning resources
 * https://eprint.iacr.org/2022/1216.pdf
 * https://people.cs.georgetown.edu/jthaler/Ligero-FRI-proof-size.pdf
 * https://hackmd.io/@deanstef/SJTT3MDhC
+* https://www.bigsky.gg/posts/fri/
 
 # SNARG
 * https://github.com/hash-based-snargs-book/hash-based-snargs-book/blob/main/snargs-book.pdf
