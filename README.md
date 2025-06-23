@@ -35,6 +35,7 @@ Learning resources
 * https://people.cs.georgetown.edu/jthaler/Ligero-FRI-proof-size.pdf
 * https://hackmd.io/@deanstef/SJTT3MDhC
 * https://www.bigsky.gg/posts/fri/
+* https://blog.lambdaclass.com/how-to-code-fri-from-scratch/
 
 # SNARG
 * https://github.com/hash-based-snargs-book/hash-based-snargs-book/blob/main/snargs-book.pdf
