@@ -36,6 +36,7 @@ Learning resources
 * https://hackmd.io/@deanstef/SJTT3MDhC
 * https://www.bigsky.gg/posts/fri/
 * https://blog.lambdaclass.com/how-to-code-fri-from-scratch/
+* https://vitalik.eth.limo/general/2017/11/22/starks_part_2.html
 
 # SNARG
 * https://github.com/hash-based-snargs-book/hash-based-snargs-book/blob/main/snargs-book.pdf
