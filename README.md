@@ -40,3 +40,6 @@ Learning resources
 
 # SNARG
 * https://github.com/hash-based-snargs-book/hash-based-snargs-book/blob/main/snargs-book.pdf
+  
+# PCP
+* https://ocw.mit.edu/courses/18-408-topics-in-theoretical-computer-science-probabilistically-checkable-proofs-fall-2022/pages/syllabus/
