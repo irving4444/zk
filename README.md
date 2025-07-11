@@ -18,6 +18,8 @@ Learning resources
 * https://github.com/starkware-industries/stark101
 
 * https://kitten-finance.medium.com/low-degree-testing-in-zk-stark-part-1-c0ac6ef0de3c
+
+* https://kitten-finance.medium.com/low-degree-testing-in-zk-stark-part-2-7c729118d10c
   
   # STARK PAPER
     * https://eprint.iacr.org/2018/046.pdf?ref=blog.lambdaclass.com
