@@ -16,6 +16,8 @@ Learning resources
 * https://medium.com/starkware/tagged/stark-math
 
 * https://github.com/starkware-industries/stark101
+
+* https://kitten-finance.medium.com/low-degree-testing-in-zk-stark-part-1-c0ac6ef0de3c
   
   # STARK PAPER
     * https://eprint.iacr.org/2018/046.pdf?ref=blog.lambdaclass.com
