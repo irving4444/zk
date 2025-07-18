@@ -20,6 +20,8 @@ Learning resources
 * https://kitten-finance.medium.com/low-degree-testing-in-zk-stark-part-1-c0ac6ef0de3c
 
 * https://kitten-finance.medium.com/low-degree-testing-in-zk-stark-part-2-7c729118d10c
+* https://www.cryptologie.net/article/601/how-starks-work-if-you-dont-care-about-fri/
+* https://medium.com/@francomangone18/cryptography-101-starks-df79507f98ea
   
   # STARK PAPER
     * https://eprint.iacr.org/2018/046.pdf?ref=blog.lambdaclass.com
